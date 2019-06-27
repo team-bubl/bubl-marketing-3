@@ -18,7 +18,7 @@ Bubl does this by providing Middle School students who are transitioning to High
 
 ## Technologies
 
-This portion of the project (the landing page and marketing site for Bubl) was build using HTML, Less/CSS, and vanilla JavaScript.
+This portion of the project (the landing page and marketing site for Bubl) was build using HTML, CSS, and JavaScript.
 
 ## Maintainers
 
