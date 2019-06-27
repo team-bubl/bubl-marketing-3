@@ -1,6 +1,4 @@
 .Bubl-text{
-    display: flex;
-    justify-content: flex-start;
     font-size: 44px;
     color: #4af5bc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,12 +7,16 @@
 .navigation-bar{
     display: flex;
     font-size: 20px;
-    justify-content: flex-end;
-    color: #9800c6;
+    align-items: center;
+    justify-content: space-between;
+    color:#4af5bc;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a{
+    color: inherit;
+}
 .p{
 display: flex;
 flex-wrap: wrap;
